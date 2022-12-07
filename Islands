@@ -1074,7 +1074,7 @@ local args = {
         },
         [2] = {
             [1] = "\6",
-            [2] = workspace.__GAME.__Mobs.Ilha_04.MarineOffical15,
+            [2] = workspace.__GAME.__Mobs.Ilha_04.MarineOffcial15,
             [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
@@ -1094,7 +1094,7 @@ local args = {
         },
         [2] = {
             [1] = "\6",
-            [2] = workspace.__GAME.__Mobs.Ilha_04.MarineOffical14,
+            [2] = workspace.__GAME.__Mobs.Ilha_04.MarineOffcial14,
             [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
@@ -1114,7 +1114,7 @@ local args = {
         },
         [2] = {
             [1] = "\6",
-            [2] = workspace.__GAME.__Mobs.Ilha_04.MarineOffical13,
+            [2] = workspace.__GAME.__Mobs.Ilha_04.MarineOffcial13,
             [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
@@ -1134,7 +1134,7 @@ local args = {
         },
         [2] = {
             [1] = "\6",
-            [2] = workspace.__GAME.__Mobs.Ilha_04.MarineOffical12,
+            [2] = workspace.__GAME.__Mobs.Ilha_04.MarineOffcial12,
             [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
@@ -1154,7 +1154,7 @@ local args = {
         },
         [2] = {
             [1] = "\6",
-            [2] = workspace.__GAME.__Mobs.Ilha_04.MarineOffical11,
+            [2] = workspace.__GAME.__Mobs.Ilha_04.MarineOffcial11,
             [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
@@ -1174,7 +1174,7 @@ local args = {
         },
         [2] = {
             [1] = "\6",
-            [2] = workspace.__GAME.__Mobs.Ilha_04.MarineOffical10,
+            [2] = workspace.__GAME.__Mobs.Ilha_04.MarineOffcial10,
             [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
@@ -1194,7 +1194,7 @@ local args = {
         },
         [2] = {
             [1] = "\6",
-            [2] = workspace.__GAME.__Mobs.Ilha_04.MarineOffical9,
+            [2] = workspace.__GAME.__Mobs.Ilha_04.MarineOffcial9,
             [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
@@ -1214,7 +1214,7 @@ local args = {
         },
         [2] = {
             [1] = "\6",
-            [2] = workspace.__GAME.__Mobs.Ilha_04.MarineOffical8,
+            [2] = workspace.__GAME.__Mobs.Ilha_04.MarineOffcial8,
             [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
@@ -1234,7 +1234,7 @@ local args = {
         },
         [2] = {
             [1] = "\6",
-            [2] = workspace.__GAME.__Mobs.Ilha_04.MarineOffical7,
+            [2] = workspace.__GAME.__Mobs.Ilha_04.MarineOffcial7,
             [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
@@ -1254,7 +1254,7 @@ local args = {
         },
         [2] = {
             [1] = "\6",
-            [2] = workspace.__GAME.__Mobs.Ilha_04.MarineOffical6,
+            [2] = workspace.__GAME.__Mobs.Ilha_04.MarineOffcial6,
             [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
@@ -1274,7 +1274,7 @@ local args = {
         },
         [2] = {
             [1] = "\6",
-            [2] = workspace.__GAME.__Mobs.Ilha_04.MarineOffical5,
+            [2] = workspace.__GAME.__Mobs.Ilha_04.MarineOffcial5,
             [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
@@ -1294,7 +1294,7 @@ local args = {
         },
         [2] = {
             [1] = "\6",
-            [2] = workspace.__GAME.__Mobs.Ilha_04.MarineOffical4,
+            [2] = workspace.__GAME.__Mobs.Ilha_04.MarineOffcial4,
             [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
@@ -1314,7 +1314,7 @@ local args = {
         },
         [2] = {
             [1] = "\6",
-            [2] = workspace.__GAME.__Mobs.Ilha_04.MarineOffical3,
+            [2] = workspace.__GAME.__Mobs.Ilha_04.MarineOffcial3,
             [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
@@ -1334,7 +1334,7 @@ local args = {
         },
         [2] = {
             [1] = "\6",
-            [2] = workspace.__GAME.__Mobs.Ilha_04.MarineOffical2,
+            [2] = workspace.__GAME.__Mobs.Ilha_04.MarineOffcial2,
             [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
@@ -1354,7 +1354,7 @@ local args = {
         },
         [2] = {
             [1] = "\6",
-            [2] = workspace.__GAME.__Mobs.Ilha_04.MarineOffical1,
+            [2] = workspace.__GAME.__Mobs.Ilha_04.MarineOffcial1,
             [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
