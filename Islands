@@ -1,4 +1,4 @@
-local IS4
+local IS4 = true
 
 repeat wait()
 if IS1 then
