@@ -1,3 +1,5 @@
+local IS4
+
 repeat wait()
 if IS1 then
 local args = {
