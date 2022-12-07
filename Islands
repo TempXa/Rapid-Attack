@@ -7,13 +7,13 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_01.Bandit1,
-            [3] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -27,13 +27,13 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_01.Bandit2,
-            [3] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -47,13 +47,13 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_01.Bandit3,
-            [3] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -67,13 +67,13 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_01.Bandit4,
-            [3] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -87,13 +87,13 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_01.Bandit5,
-            [3] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -107,13 +107,13 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_01.Bandit6,
-            [3] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -127,13 +127,13 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_01.Bandit7,
-            [3] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -147,13 +147,13 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_01.Bandit8,
-            [3] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -167,13 +167,13 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_01.Bandit9,
-            [3] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -187,13 +187,13 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_01.BanditLeader1,
-            [3] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -207,13 +207,13 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_01.BanditLeader2,
-            [3] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -227,13 +227,13 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_01.StrongBandit2,
-            [3] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -247,13 +247,13 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_01.StrongBandit3,
-            [3] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -267,13 +267,13 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_01.StrongBandit4,
-            [3] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -287,13 +287,13 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_01.StrongBandit5,
-            [3] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -307,13 +307,13 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_01.StrongBandit6,
-            [3] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -327,13 +327,13 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_01.StrongBandit7,
-            [3] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -347,13 +347,13 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_01.StrongBandit8,
-            [3] = game:GetService("Players").LocalPlayer.Character.:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -367,13 +367,13 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_01.StrongBandit9,
-            [3] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -387,13 +387,13 @@ elseif IS2 then
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_02.Monkey1,
-            [3] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -407,13 +407,13 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_02.Monkey2,
-            [3] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -427,13 +427,13 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_02.Monkey3,
-            [3] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -447,13 +447,13 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_02.Monkey4,
-            [3] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -467,13 +467,13 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_02.Monkey5,
-            [3] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -487,13 +487,13 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_02.Monkey6,
-            [3] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -507,13 +507,13 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_02.Monkey7,
-            [3] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -527,13 +527,13 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_02.Monkey8,
-            [3] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -547,13 +547,13 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_02.Gorilla1,
-            [3] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -567,13 +567,13 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_02.Gorilla2,
-            [3] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -587,13 +587,13 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_02.Gorilla3,
-            [3] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -607,13 +607,13 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_02.Gorilla4,
-            [3] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -627,13 +627,13 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_02.Gorilla5,
-            [3] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -647,13 +647,13 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_02.Gorilla6,
-            [3] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -667,13 +667,13 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_02.Gorilla7,
-            [3] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -687,13 +687,13 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_02.KingGorilla1,
-            [3] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -707,13 +707,13 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_02.KingGorilla2,
-            [3] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -727,13 +727,13 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_03.ClownKing1,
-            [3] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -747,13 +747,13 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_03.KillerClown8,
-            [3] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -767,13 +767,13 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_03.KillerClown7,
-            [3] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -787,13 +787,13 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_03.KillerClown6,
-            [3] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -807,13 +807,13 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_03.KillerClown5,
-            [3] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -827,13 +827,13 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_03.KillerClown5,
-            [3] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -847,13 +847,13 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_03.KillerClown4,
-            [3] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -867,13 +867,13 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_03.KillerClown3,
-            [3] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -887,13 +887,13 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_03.KillerClown2,
-            [3] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -907,13 +907,13 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_03.KillerClown1,
-            [3] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -927,13 +927,13 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_03.Clown6,
-            [3] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -947,13 +947,13 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_03.Clown5,
-            [3] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -967,13 +967,13 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_03.Clown4,
-            [3] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -987,13 +987,13 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
             [1] = "\6",
             [2] = workspace.__GAME.__Mobs.Ilha_03.Clown3,
-            [3] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+            [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
 }
@@ -1007,7 +1007,7 @@ local args = {
             [2] = "Combat",
             [3] = 1,
             [4] = false,
-            [5] = game:GetService("Players").LocalPlayer.Character:FindFirstChildWhichIsA("Tool"),
+            [5] = game:GetService("Players").LocalPlayer.Character.Light,
             [6] = "Fruit"
         },
         [2] = {
