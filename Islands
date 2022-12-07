@@ -1234,7 +1234,7 @@ local args = {
         },
         [2] = {
             [1] = "\6",
-            [2] = workspace.__GAME.__Mobs.Ilha_04.MarineOffcial7,
+            [2] = workspace.__GAME.__Mobs.Ilha_04.MarineOfficial7,
             [3] = game:GetService("Players").LocalPlayer.Character.Light
         }
     }
