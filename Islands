@@ -1,9 +1,6 @@
-game.Players.LocalPlayer.Character.ChildAdded:Connect(function(added)
-if added:IsA("Tool") then
-local weapon = game.Players.LocalPlayer.Character:FindFirstChildWhichIsA("Tool").Name 
-end
 repeat wait()
-if game.Players.LocalPlayer.Character:FindFirstChildWhichIsA("Tool").Name then
+if game.Players.LocalPlayer.Character:FindFirstChildWhichIsA("Tool") then
+local weapon = game.Players.LocalPlayer.Character:FindFirstChildWhichIsA("Tool").Name 
 if IS1 then
 local args = {
     [1] = {
@@ -1988,4 +1985,3 @@ else
     end
 end
 until told
-end)
